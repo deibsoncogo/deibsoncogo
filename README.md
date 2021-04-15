@@ -27,7 +27,4 @@
  - Editor e terminal: Visual Studio Code, Git Bash
  - Outras ferramentas: Git, NPM, Yarn, Figma e Insomnia
 
-<blockquote align="center" cite="https://www.pensador.com/frase/NDUzNDEy/?utm_source=whatsapp&utm_medium=referral">
-  Mera mudança não é crescimento, crescimento é a síntese de mudança</br>e continuidade, e onde não há continuidade não há crescimento</br>
-  <strong>C. S. Lewis</strong>
-</blockquote>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=deibsoncogo" alt="deibsoncogo" /> </p>
