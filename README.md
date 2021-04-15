@@ -5,26 +5,22 @@
 
 <h3 align="center">
   Atualmente não trabalho na área da programação 😢</br>
-  Mais graças a
-  <a target="_blank" style="font-weight: bold; color: inherit; text-decoration: none" href="http://www.rocketseat.com.br/">
-    Rocketseat
-  </a>
-  deixei de ser um pessoa inexperiente 😃
+  Mais graças a <a target="_blank" style="font-weight: bold; color: inherit; text-decoration: none" href="http://www.rocketseat.com.br/">Rocketseat</a> deixei de ser um pessoa inexperiente 😃
 </h3>
 
 ### **Sobre mim:**
-- 🤩 Sempre gostei de tecnologia e a parte que me fascina é a programação
-- 🏫 Estou no 4º ano de graduação de engenharia da computação pela <a target="_blank" style="font-weight: bold; color: inherit; text-decoration: none" href="http://www.univesp.br/cursos/engenharia-de-computacao/">Univesp</a>
-- ⚡ Sou uma pessoa alegre, organizada, que gosta de comer e <a target="_blank" style="font-weight: bold; color: inherit; text-decoration: none" href="http://www.rotary.org/pt/get-involved/rotaract-clubs/">rotaractiano</a>
-- 📫 Possuo este <a target="_blank" style="font-weight: bold; color: inherit; text-decoration: none" href="mailto:deibsoncogotrabalho@outlook.com">e-mail</a> para contato, <span style="color: inherit; text-decoration: none">deibsoncogotrabalho@outlook.com</span>
-- 📞 Tenho este <a target="_blank" style="font-weight: bold; color: inherit; text-decoration: none" href="tel:+5516997084454">número de celular</a> com <a target="_blank" style="font-weight: bold; color: inherit; text-decoration: none" href="http://www.api.whatsapp.com/send?phone=5516997084454&text=Ol%C3%A1%20Deibson%20Cogo,%20quero%20te%20conhecer%20um%20pouco%20mais!/">Whatsapp</a> e <a target="_blank" style="font-weight: bold; color: inherit; text-decoration: none" href="http://www.t.me/deibsoncogo">Telegram</a>, <span style="color: inherit; text-decoration: none">+55 16 99708-4454</span>
-- 📄 E por este <a target="_blank" style="font-weight: bold; color: inherit; text-decoration: none" href="http://www.1drv.ms/b/s!AiJ-Q-CkE2nF0yw3Fe0BQn2Hrt6H?e=QDJBT1">link</a> você consegue acessar meu currículo completo
+ - 🤩 Sempre gostei de tecnologia e a parte que me fascina é a programação
+ - 🏫 Estou no 4º ano de graduação de engenharia da computação pela <a target="_blank" style="font-weight: bold; color: inherit; text-decoration: none" href="http://www.univesp.br/cursos/engenharia-de-computacao/">Univesp</a>
+ - ⚡ Sou uma pessoa alegre, organizada, que gosta de comer e sou <a target="_blank" style="font-weight: bold; color: inherit; text-decoration: none" href="http://www.rotary.org/pt/get-involved/rotaract-clubs/">rotaractiano</a>
+ - 📫 Possuo este <a target="_blank" style="font-weight: bold; color: inherit; text-decoration: none" href="mailto:deibsoncogotrabalho@outlook.com">e-mail</a> para contato, <span style="color: inherit; text-decoration: none">deibsoncogotrabalho@outlook.com</span>
+ - 📞 Tenho este <a target="_blank" style="font-weight: bold; color: inherit; text-decoration: none" href="tel:+5516997084454">número de celular</a> com <a target="_blank" style="font-weight: bold; color: inherit; text-decoration: none" href="http://api.whatsapp.com/send?phone=5516997084454&text=Ol%C3%A1%20Deibson%20Cogo,%20quero%20te%20conhecer%20um%20pouco%20mais!">Whatsapp</a> e <a target="_blank" style="font-weight: bold; color: inherit; text-decoration: none" href="http://www.t.me/deibsoncogo">Telegram</a>, <span style="color: inherit; text-decoration: none">+55 16 99708-4454</span>
+ - 📄 E por este <a target="_blank" style="font-weight: bold; color: inherit; text-decoration: none" href="http://1drv.ms/b/s!AiJ-Q-CkE2nF0yw3Fe0BQn2Hrt6H?e=QDJBT1">link</a> você consegue acessar meu currículo completo
 
-### **Meu ambiente de desenvolvimento:**
+### **Meu ambiente:**
  - **Linguagens:** JavaScript, TypeScript, HTML e CSS
- - **Frameworks:** Express, Next JS, Node Js, React, React JS e React Native
- - **Envolve DB:** DBeaver, Docker e MongoDB
- - **Editor e terminal:** Visual Studio Code, Git Bash
- - **Outras ferramentas:** Git, NPM, Yarn, Figma e Insomnia
+ - **Frameworks:** Express, Next JS, Node JS, React, React JS e React Native
+ - **Envolve DB:** DBeaver, Docker e Mongo DB
+ - **Editor e terminal:** Visual Studio Code e Git Bash
+ - **Outras ferramentas:** NPM, Yarn, Git, Figma e Insomnia
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=deibsoncogo" alt="deibsoncogo" /> </p>
