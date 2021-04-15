@@ -28,12 +28,8 @@
  - Linguagens: JavaScript, TypeScript, HTML e CSS
  - Frameworks: Express, Next JS, Node Js, React, React JS e React Native
  - Envolve DB: DBeaver, Docker e MongoDB
- - Terminal: Git Bash
- - Editor: Visual Studio Code
- - Versão do software: Git e Github
- - Gerenciadores de pacotes: NPM e Yarn
- - Sistema operacional: Windows 10 Pro
- - Outras ferramentas: Git, Figma e Insomnia
+ - Editor e terminal: Visual Studio Code, Git Bash
+ - Outras ferramentas: Git, NPM, Yarn, Figma e Insomnia
 
 </br>
 
@@ -57,7 +53,7 @@
 </br>
 
 <blockquote align="center" cite="https://www.pensador.com/frase/NDUzNDEy/?utm_source=whatsapp&utm_medium=referral">
-  Mera mudança não é crescimento, crescimento é a síntese de mudança e continuidade, e onde não há continuidade não há crescimento</br>
+  Mera mudança não é crescimento, crescimento é a síntese de mudança</br>e continuidade, e onde não há continuidade não há crescimento</br>
   <strong>C. S. Lewis</strong>
 </blockquote>
 
