@@ -4,7 +4,8 @@
 </h1>
 
 <h3 align="center">
-  Atualmente não trabalho na área da programação 😢, Mais graças a
+  Atualmente não trabalho na área da programação 😢</br>
+  Mais graças a
   <a href="https://rocketseat.com.br/" target="_blank">
     @Rocketseat
   </a>
@@ -36,6 +37,7 @@
 
 </br>
 
+<!--
 <div class="rodape">
 <div>
 <p align="center">
@@ -50,10 +52,11 @@
 </p>
 </div>
 </div>
+-->
 
 </br>
 
- <blockquote align="center" cite="https://www.pensador.com/frase/NDUzNDEy/?utm_source=whatsapp&utm_medium=referral">
+<blockquote align="center" cite="https://www.pensador.com/frase/NDUzNDEy/?utm_source=whatsapp&utm_medium=referral">
   Mera mudança não é crescimento, crescimento é a síntese de mudança e continuidade, e onde não há continuidade não há crescimento</br>
   <strong>C. S. Lewis</strong>
 </blockquote>
@@ -65,28 +68,3 @@ _parent: No quadro pai
 _top: Em todo o corpo da janela
 framename: No iframe nomeado
 -->
-
-<style>
-
-* {
-  background: #f2f3f5;
-  color: #666666;
-  box-sizing: border-box;
-}
-
-#rodape  {
-  display: flex;
-}
-
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-div {
-  flex: 1;
-
-  display: grid; /* ativa o flex box para este modo */
-}
-
-</style>
