@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Agora um <strong>Luby</strong>, codando e crescendo a cada dia junto de inscrevéis devs, <a target="_blank" style="font-weight: bold; color: inherit; text-decoration: none" href="https://www.linkedin.com/company/luby-software/mycompany/">Luby Software</a> 😃
+  Agora um <strong>Luber</strong>, codando e crescendo a cada dia junto de inscrevéis devs, <a target="_blank" style="font-weight: bold; color: inherit; text-decoration: none" href="https://www.linkedin.com/company/luby-software/mycompany/">Luby Software</a> 😃
 </h3>
 
 ### **Sobre mim:**
