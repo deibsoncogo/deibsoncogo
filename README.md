@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./hi.gif" width="35px">
+  <img src="./hi.gif" width="35px" height="35px">
   Olá jovem, fico alegre por te ver aqui!
 </h1>
 
@@ -17,8 +17,8 @@
 
 ### **Meu ambiente:**
  - **Linguagens:** JavaScript, TypeScript, HTML e CSS
- - **Frameworks:** Node JS, Adonis V5, Next JS, React, React JS e React Native
- - **Envolve DB:** Beekeeper Studio, DBeaver, Docker, Mongo DB, Postegres e SQLite
+ - **Frameworks:** Node JS, Express, Adonis V5 e Nest JS
+ - **Envolve DB:** Beekeeper Studio, DBeaver, Docker, Mongo DB, Postegres, SQLite e MySQL
  - **Editor e terminal:** Visual Studio Code e Git Bash
  - **Outras ferramentas:** NPM, Yarn, Git, Figma e Insomnia
 
