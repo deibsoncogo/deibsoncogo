@@ -23,9 +23,3 @@
  - **Outras ferramentas:** NPM, Yarn, Git, Figma e Insomnia
 
 </br>
-
-[![Bagde](https://img.shields.io/badge/Linkedin-*-569A31)](https://www.linkedin.com/in/deibsoncogo/)
-[![Bagde](https://img.shields.io/badge/Instagram-*-E4405F)](https://www.instagram.com/deibsoncogo/)
-[![Bagde](https://img.shields.io/badge/Facebook-*-B1361E)](https://www.facebook.com/Deibsoncogo/)
-[![Bagde](https://img.shields.io/badge/Discord-*-DD0031)](https://discord.com/channels/@DeibsonCogo#4443)
-[![Bagde](https://komarev.com/ghpvc/?username=deibsoncogo&color=FF7102&label=Visualizações)](https://github.com/deibsoncogo)
